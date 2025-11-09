@@ -1,0 +1,5 @@
+ultralytics
+cvzone
+norfair
+opencv-python
+numpy
