@@ -59,6 +59,7 @@ Human-fall-detection/
 ├── classes.txt          # Danh sách các lớp đối tượng
 ├── fall.mp4             # Video mẫu
 ├── yolov8n.pt           # Mô hình YOLO
+├── Norfair              # Thư viện tracking đối tượng
 └── README.md            # File hướng dẫn này
 ```
 
